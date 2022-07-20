@@ -33,7 +33,7 @@ https://data.gov.sg/dataset/historical-daily-weather
 **Rainfall**
 
 ![Capture1](https://user-images.githubusercontent.com/91514179/179926144-663d52d7-fe90-4bcb-af84-18655b7e8ef0.PNG)
-Highest total rainfall recorded was 142mm on 9/3/09.
+- Highest total rainfall recorded was 142mm on 9/3/09.
 
 
 **Windspeed**
