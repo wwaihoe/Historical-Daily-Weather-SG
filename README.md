@@ -7,6 +7,7 @@ Exploring a dataset containing daily weather recordings of Singapore to learn ab
 Dataset retrieved from data.gov.sg, managed by National Environmental Agency. 
 https://data.gov.sg/dataset/historical-daily-weather
 
+
 ## Data Preparation
 
 - Dropped highest rainfall columns as more than half of the values were missing.
@@ -14,6 +15,7 @@ https://data.gov.sg/dataset/historical-daily-weather
 - Added missing dates and used linear interpolation to fill in missing values in the recordings.
 - Added temperature range column.
 - Checked for erroneous values using boxplots of all colunmns. (None to be found)
+
 
 ## Data Analysis
 **Temperature**
@@ -27,10 +29,12 @@ https://data.gov.sg/dataset/historical-daily-weather
 
 - Largest temperature range recorded was 13.3 degrees celsius, on 24/3/13, with a max temperature of 36.2 and min temperature of 22.9.
 
+
 **Rainfall**
 
 ![Capture1](https://user-images.githubusercontent.com/91514179/179926144-663d52d7-fe90-4bcb-af84-18655b7e8ef0.PNG)
 Highest total rainfall recorded was 142mm on 9/3/09.
+
 
 **Windspeed**
 
@@ -38,6 +42,7 @@ Highest total rainfall recorded was 142mm on 9/3/09.
 - Mean wind speed has an increasing trend over the years. Mean wind speed generally peaks at the start of the year and bottoms out in the middle of the year.
 
 - Highest wind speed ever recorded was 86.8km/h on 21/3/12.
+
 
 **Correlation**
 
