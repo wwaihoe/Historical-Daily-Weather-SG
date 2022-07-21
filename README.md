@@ -106,7 +106,6 @@ https://data.gov.sg/dataset/historical-daily-weather
 - Window: Predict mean temperature for 1 day given the data from previous 30 days.
 
 ![Capture11](https://user-images.githubusercontent.com/91514179/180151740-821f5610-0018-4a70-9dc7-583be17989cd.PNG)
-- Example of windows used for model
 
 ![Capture10](https://user-images.githubusercontent.com/91514179/180150150-5a6f5413-6341-4df5-9d1e-1b004796d529.PNG)
 - Validation Mean absolute error: 0.5088
@@ -118,7 +117,6 @@ https://data.gov.sg/dataset/historical-daily-weather
 - Window: Predict mean temperature for 1 month given the data from previous 5 months
 
 ![Capture12](https://user-images.githubusercontent.com/91514179/180152281-304d297e-5ae9-4e79-9260-ba1589706e80.PNG)
-- Example of windows used for model
 
 ![Capture13](https://user-images.githubusercontent.com/91514179/180152415-4f31fca4-a2df-4833-a9d9-fe45de13de9b.PNG)
 - Validation Mean absolute error: 0.5343
